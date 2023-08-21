@@ -5,8 +5,8 @@ namespace: dev
 
 images:
   - name: mtjacr001/.azurecr.io//azure-vote-front
-    newTag: c9ce623c83aa815ee37def443568f1b5df3b10e4
+    newTag: 9a72e9e7c56d5b0c1f26a80b20cdfb439171686b
   - name: mtjacr001/.azurecr.io//azure-vote-back
-    newTag: c9ce623c83aa815ee37def443568f1b5df3b10e4
+    newTag: 9a72e9e7c56d5b0c1f26a80b20cdfb439171686b
 resources:
   - manifests.yaml
